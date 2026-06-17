@@ -22,7 +22,7 @@ Software developer in **Molde, Norway** with a **banking background** and a trac
 I work where **finance, product engineering, and creative tech** meet: understanding how systems behave in production, then building software that is maintainable and worth trusting.
 
 > - **Web Developer @ [Nivero AS](https://nivero.no/)** — React product development; earlier Flutter internship on the same team
-> - **4+ years @ PUMB Bank (Kyiv)** — retail banking, customer advisory, acting team lead
+> - **4+ years @ PUMB Bank (Kyiv)** — credit & card **risk assessment**, **compliance** & document control, **depository** ops, **VIP** private banking, **B2B** payroll acquisition; acting team lead
 > - **Founder @ [Logerofman Studio](https://logerofman.com)** — narrative indie games + studio web presence
 > - **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — live on **Steam**
 > - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD)
@@ -50,11 +50,11 @@ Indie studio founder · narrative 2D · atmosphere & lore-first design · shippe
 
 ### Banking & Fintech
 
-4+ years retail banking · customer operations · team lead under pressure · economics degree
+4+ years at **PUMB Bank** — **credit risk** (loans & cards), **regulatory compliance** & documentation, **depository** control, **VIP** affluent-client servicing, **B2B** payroll acquisition · acting team lead · economics degree
 
 **9+ years** following blockchain ecosystems — watching how communities and products evolve, taking part as a user and market participant. **Active in TON now:** studying **Gram**, token mechanics, NFT markets, and how the network fits together.
 
-`Retail Banking` `Fintech` `TON` `Web3` `Product Thinking` `Financial Ops`
+`Credit Risk` `Compliance` `Retail Banking` `Fintech` `TON` `Web3` `Financial Ops`
 
 </td>
 </tr>
