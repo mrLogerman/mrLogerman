@@ -25,7 +25,7 @@ I work where **finance, product engineering, and creative tech** meet: understan
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:312e81,100:0f172a&height=100&section=footer" alt=""/>
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/palace-divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -100,7 +100,7 @@ Ran **two YouTube channels** in different periods — different niches, audience
 
 Daily AI-assisted development — from Unity workflows to web and product work
 
-`Cursor` `Claude` `GitHub Copilot` `Bezi` 🫠
+`Cursor` `Claude` `GitHub Copilot` `Bezi`
 
 </td>
 </tr>
