@@ -36,7 +36,7 @@ I work where **finance, product engineering, and creative tech** meet: understan
 <tr>
 <td width="50%" valign="top">
 
-### Game Dev
+<h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">Game Dev</h3>
 
 Indie studio founder · narrative 2D · atmosphere & lore-first design · shipped to **Steam**
 
@@ -45,7 +45,7 @@ Solo pipeline: art import, animation, audio, gameplay, build, **Steamworks** rel
 </td>
 <td width="50%" valign="top">
 
-### Frontend
+<h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">Frontend</h3>
 
 Product UI in **React** & **Flutter** · static marketing sites · bilingual routing · SEO-aware frontends
 
@@ -56,7 +56,7 @@ Component-driven UI, responsive layouts, and maintainable page architecture.
 <tr>
 <td width="50%" valign="top">
 
-### Banking & Fintech
+<h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">Banking & Fintech</h3>
 
 4+ years at **PUMB Bank** — **credit risk**, **compliance**, **depository** control, **VIP** servicing, **B2B** payroll acquisition; acting team lead · economics degree
 
@@ -65,7 +65,7 @@ Component-driven UI, responsive layouts, and maintainable page architecture.
 </td>
 <td width="50%" valign="top">
 
-### Backend & DevOps
+<h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">Backend & DevOps</h3>
 
 APIs, scripts, bots, and deployment for web products and side projects
 
@@ -76,7 +76,7 @@ APIs, scripts, bots, and deployment for web products and side projects
 <tr>
 <td width="50%" valign="top">
 
-### Content & Media
+<h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">Content & Media</h3>
 
 Two **YouTube** channels (~**2K** and **~5K** subs) — edit → publish → analytics → iterate
 
@@ -85,7 +85,7 @@ Thumbnails, packaging, metadata, retention/CTR analysis, audience growth.
 </td>
 <td width="50%" valign="top">
 
-### AI-assisted development
+<h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">AI-assisted development</h3>
 
 Daily AI pair programming across Unity, web, and product work
 
@@ -96,7 +96,7 @@ Faster iteration on architecture, refactors, docs, and shipping workflows.
 <tr>
 <td colspan="2" valign="top">
 
-### Freelance
+<h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">Freelance</h3>
 
 **Websites from zero** for clients — build, handoff, and consulting on **deployment**, **metadata**, and **SEO**
 
