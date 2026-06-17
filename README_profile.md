@@ -20,7 +20,6 @@ I work where **finance, product engineering, and creative tech** meet: understan
 > - **Founder @ [Logerofman Studio](https://logerofman.com)** — narrative indie games + studio web presence
 > - **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — live on **Steam**
 > - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD)
-> - Contributor to **[Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)** — AI-assisted Unity in my daily pipeline
 
 ---
 
@@ -49,7 +48,9 @@ Indie studio founder · narrative 2D · atmosphere & lore-first design · shippe
 
 4+ years retail banking · customer operations · team lead under pressure · economics degree
 
-`Retail Banking` `Fintech` `Product Thinking` `Financial Ops`
+**9+ years** following blockchain ecosystems — watching how communities and products evolve, taking part as a user and market participant. **Active in TON now:** studying **Gram**, token mechanics, NFT markets, and how the network fits together.
+
+`Retail Banking` `Fintech` `TON` `Web3` `Product Thinking` `Financial Ops`
 
 </td>
 </tr>
@@ -84,7 +85,7 @@ APIs, scripts, deployment, and bots for web products and side projects
 
 Daily AI-assisted development — from Unity workflows to web and product work
 
-`Cursor` `Claude` `GitHub Copilot` `Bezi` `Unity-MCP` 🫠
+`Cursor` `Claude` `GitHub Copilot` `Bezi` 🫠
 
 </td>
 </tr>
