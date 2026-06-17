@@ -24,15 +24,17 @@ jobs:
         run: npm ci
         working-directory: ../github-readme-stats
 
-      - name: Regenerate SVG
+      - name: Regenerate SVG badges
         env:
           PAT_1: ${{ secrets.STATS_PAT }}
-        run: node scripts/generate-top-langs.mjs
+        run: |
+          node scripts/generate-stats.mjs
+          node scripts/generate-top-langs.mjs
 
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/top-langs.svg
-          git diff --staged --quiet || git commit -m "Update top languages badge from all repositories."
+          git add assets/github-stats.svg assets/top-langs.svg
+          git diff --staged --quiet || git commit -m "Update GitHub stats and top languages badges."
           git push
