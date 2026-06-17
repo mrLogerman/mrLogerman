@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=130&section=header&text=Yevhenii%20Telnyi&fontSize=44&fontColor=fff&animation=fadeIn&color=0:0f172a,100:7c3aed" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=720&height=60&lines=Software+Developer+%7C+Fintech+%7C+React+%7C+Unity+%7C+Game+Dev" alt=""/>
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrLogerman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrLogerman)
