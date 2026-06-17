@@ -6,8 +6,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrLogerman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrLogerman)
 [![Website](https://img.shields.io/badge/Website-logerofman.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logerofman.com)
-[![Steam](https://img.shields.io/badge/Steam-The_Palaces_of_The_Mind-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Logerofman_Studio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/logerofman-studio)
+[![Steam](https://img.shields.io/badge/Steam-Chapter_One-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yevhenii_Telnyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-telnyi-706b752ab/)
 
 </div>
 
@@ -16,7 +16,7 @@ Indie game developer and founder of **[Logerofman Studio](https://logerofman.com
 I work across the full stack of an indie release: **Unity gameplay**, **narrative design**, and the **production web layer** (studio site, lore wiki, SEO, CI/CD) that gives a game universe a credible public home.
 
 > - Founder of **Logerofman Studio** — crafting narrative games meant to be felt, not just played.
-> - Creator of **[The Palaces of The Mind](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind/)** — a mystical 2D adventure; **Chapter One** is live on **Steam**.
+> - Creator of **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — a mystical 2D adventure, live on **Steam**.
 > - Shipped **[logerofman.com](https://logerofman.com)** — bilingual studio site (UA/EN), lore wiki, and production-grade static frontend on Astro + Netlify.
 > - Contributor to **[Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)** — AI-assisted Unity development tooling used in my own pipeline.
 
@@ -39,13 +39,13 @@ I work across the full stack of an indie release: **Unity gameplay**, **narrativ
 <tr>
 <td width="50%" valign="top">
 
-### [The Palaces of The Mind](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind/)
+### [The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 
 Mystical **2D adventure** about two girls escaping the world of animeads.
 
-Unity · narrative design · atmosphere · Steam release
+Unity · narrative design · atmosphere · **Chapter One** on Steam
 
-[Play on Steam →](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind/)
+[Play on Steam →](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +91,7 @@ Static-first sites, locale-aware routing, wiki growth patterns, and CI that trea
 
 <div align="center">
 
-**Open to collaboration** · Norway 🇳🇴 · [Logerofman Studio](https://logerofman.com)
+**Open to collaboration** · Norway 🇳🇴 · [logerofman.com](https://logerofman.com) · [LinkedIn](https://www.linkedin.com/in/yevhenii-telnyi-706b752ab/)
 
 *Building worlds worth exploring.*
 
