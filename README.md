@@ -2,6 +2,14 @@
 
 # Yevhenii Telnyi
 
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/owl-icon.png" width="52" alt=""/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/logerofman-studio.png" width="220" alt="Logerofman Studio"/>
+
+<br/><br/>
+
 **Software Developer** · **Fintech** · **Frontend** · **Backend** · **Game Dev** · **Content** · **AI Tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrLogerman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrLogerman)
@@ -25,7 +33,8 @@ I work where **finance, product engineering, and creative tech** meet: understan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/palace-divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/tpotm-forest.png" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/tpotm-banner.png" width="100%" alt="The Palaces of The Mind"/>
 
 </div>
 
@@ -114,6 +123,10 @@ Daily AI-assisted development — from Unity workflows to web and product work
 
 ### [The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/owl-dolly.png" width="110" alt=""/>
+
+<br/>
+
 Mystical **2D adventure** about two girls escaping the world of animeads.
 
 End-to-end solo dev on Chapter One — from **PSD art import** and **audio recording/integration** (MP3) through **skeletal & frame-by-frame 2D animation**, gameplay, build pipeline, and **Steam release** with **Steamworks** setup and store compliance.
@@ -126,6 +139,10 @@ End-to-end solo dev on Chapter One — from **PSD art import** and **audio recor
 <td width="50%" valign="top">
 
 ### [logerofman.com](https://logerofman.com)
+
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/logerofman-studio.png" width="160" alt="Logerofman Studio"/>
+
+<br/>
 
 Production **studio site + lore wiki** for the game universe.
 
