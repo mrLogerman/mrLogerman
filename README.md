@@ -13,10 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-telnyiyevhenii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telnyiyevhenii@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@logerman-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/logerman)
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,flutter,unity,ts,js,python,nodejs,docker,astro,git,githubactions,telegram,vscode,ps,postgres&theme=dark&perline=8" alt=""/>
-
 </div>
 
 Software developer in **Molde, Norway** with a **banking background** and a track record of **shipping real products** — React apps, Flutter prototypes, a **Steam-released game**, and production web for an indie studio.
@@ -28,12 +24,6 @@ I work where **finance, product engineering, and creative tech** meet: understan
 > - **Founder @ [Logerofman Studio](https://logerofman.com)** — narrative indie games + studio web presence
 > - **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — live on **Steam**
 > - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD)
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=72&section=footer&text=Domains&fontSize=28&fontColor=e9d5ff&color=0:1e1b4b,100:581c87" width="100%" alt=""/>
-
-</div>
 
 ## Domains
 
@@ -111,12 +101,6 @@ Daily AI-assisted development — from Unity workflows to web and product work
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=72&section=footer&text=Shipped%20Work&fontSize=28&fontColor=e9d5ff&color=0:1e1b4b,100:581c87" width="100%" alt=""/>
-
-</div>
 
 ## Shipped work
 
