@@ -107,20 +107,20 @@ Faster iteration on architecture, refactors, docs, and shipping workflows.
 
 Mystical **2D adventure** about two girls escaping the world of animeads.
 
-End-to-end solo dev — PSD import, audio, skeletal & frame animation, gameplay, build pipeline, **Steam** release & store compliance.
+**Solo Pipeline** · PSD Import · Audio · 2D Animation · Gameplay · Build · **Steam Release** · Store Compliance
 
 [Play on Steam →](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 
 </td>
 <td width="50%" valign="top">
 
-### [logerofman.com](https://logerofman.com)
+### [Logerofman.com](https://logerofman.com)
 
-Production **studio site + lore wiki** — **public repo**, CI on every push, bilingual **UA/EN**.
+Production **studio site + lore wiki** for the game universe.
 
-**250+ commits** · Astro static build · Netlify deploy · SEO & sitemap discipline.
+**250+ Commits** · Astro Static Build · Netlify Deploy · SEO & Sitemap · Bilingual **UA/EN** · Public Repo · CI/CD
 
-[Visit site →](https://logerofman.com) · [Source on GitHub →](https://github.com/mrLogerman/Logerofman.com)
+[Visit Site →](https://logerofman.com) · [Source on GitHub →](https://github.com/mrLogerman/Logerofman.com)
 
 </td>
 </tr>
