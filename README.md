@@ -60,16 +60,20 @@ Indie studio founder · narrative 2D · atmosphere & lore-first design · shippe
 
 Product UI in React & Flutter · static marketing sites · bilingual routing · SEO-aware frontends
 
-`React` `Flutter` `TypeScript` `Astro` `HTML/CSS`
+`React` `Flutter` `TypeScript` `JavaScript` `Astro` `HTML/CSS`
 
 </td>
 <td width="50%" valign="top">
 
 ### Backend
 
-APIs, tooling, and infra basics for web products and side projects
+APIs, scripts, deployment, and bots for web products and side projects
 
-`Node.js` `npm` `Docker` `REST APIs` `Netlify`
+`Node.js` `Python` `JavaScript` `Docker` `REST APIs` `Payload CMS`
+
+**Deploy & custom domains:** [Netlify](https://www.netlify.com/) · [Vercel](https://vercel.com/) · [Cloudflare Pages](https://pages.cloudflare.com/)
+
+**Telegram:** bot development · Bot API · channels & mini-app workflows
 
 </td>
 </tr>
@@ -80,7 +84,7 @@ APIs, tooling, and infra basics for web products and side projects
 
 Daily AI-assisted development — from Unity workflows to web and product work
 
-`Cursor` `Claude` `GitHub Copilot` `Bezi` `Unity-MCP` `Fable`
+`Cursor` `Claude` `GitHub Copilot` `Bezi` `Unity-MCP` 🫠
 
 </td>
 </tr>
