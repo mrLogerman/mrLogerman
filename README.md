@@ -23,12 +23,17 @@ I work where **finance, product engineering, and creative tech** meet: understan
 > - **4+ years @ PUMB Bank (Kyiv)** — credit & card **risk assessment**, **compliance** & document control, **depository** ops, **VIP** private banking, **B2B** payroll acquisition; acting team lead
 > - **Founder @ [Logerofman Studio](https://logerofman.com)** — narrative indie games + studio web presence
 > - **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — live on **Steam**
-> - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD)
+> - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD) · **[open source on GitHub](https://github.com/mrLogerman/Logerofman.com)**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mrLogerman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrLogerman&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mrLogerman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=mrLogerman&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrLogerman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&langs_count=8" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrLogerman&repo=Logerofman.com&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Logerofman.com repo stats" height="165"/>
 
 </div>
 
@@ -130,11 +135,11 @@ End-to-end solo dev on Chapter One — from **PSD art import** and **audio recor
 
 ### [logerofman.com](https://logerofman.com)
 
-Production **studio site + lore wiki** for the game universe.
+Production **studio site + lore wiki** for the game universe — **public repo**, CI on every push.
 
-`Astro` `TypeScript` `Netlify` · bilingual **UA/EN**
+`Astro` `TypeScript` `Netlify` · bilingual **UA/EN** · **100+ commits**
 
-[Visit site →](https://logerofman.com)
+[Visit site →](https://logerofman.com) · [Source on GitHub →](https://github.com/mrLogerman/Logerofman.com)
 
 </td>
 </tr>
