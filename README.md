@@ -10,6 +10,8 @@
 [![Website](https://img.shields.io/badge/Website-logerofman.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logerofman.com)
 [![Steam](https://img.shields.io/badge/Steam-Chapter_One-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yevhenii_Telnyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-telnyi-706b752ab/)
+[![Email](https://img.shields.io/badge/Email-telnyiyevhenii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:telnyiyevhenii@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@logerman-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/logerman)
 
 <br/>
 
