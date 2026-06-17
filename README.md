@@ -2,7 +2,7 @@
 
 # Yevhenii Telnyi
 
-**Game Dev** • **Unity** • **Narrative Worlds** • **Astro** • **TypeScript** • **Indie Studio** • **Web**
+**Software Developer** • **Fintech** • **React** • **Flutter** • **Unity** • **TypeScript** • **Game Dev** • **Product**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrLogerman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrLogerman)
 [![Website](https://img.shields.io/badge/Website-logerofman.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logerofman.com)
@@ -11,16 +11,17 @@
 
 </div>
 
-Indie game developer and founder of **[Logerofman Studio](https://logerofman.com)** — a small team in **Molde, Norway** building atmospheric story-driven games where **emotion, lore, and worldbuilding** are first-class, not afterthoughts.
+Software developer in **Norway** with a **banking & fintech background** and a track record of **shipping real products** — from customer-facing financial operations to React apps, Flutter prototypes, and a **Steam-released game**.
 
-I work across the full stack of an indie release: **Unity gameplay**, **narrative design**, and the **production web layer** (studio site, lore wiki, SEO, CI/CD) that gives a game universe a credible public home.
+I work where **finance, product engineering, and creative tech** meet: understanding how systems behave in production, then building software that is maintainable, user-facing, and worth trusting.
 
-> - Founder of **Logerofman Studio** — crafting narrative games meant to be felt, not just played.
-> - Creator of **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — a mystical 2D adventure, live on **Steam**.
-> - Shipped **[logerofman.com](https://logerofman.com)** — bilingual studio site (UA/EN), lore wiki, and production-grade static frontend on Astro + Netlify.
-> - Contributor to **[Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)** — AI-assisted Unity development tooling used in my own pipeline.
+> - **Web Developer @ [Nivero AS](https://nivero.no/)** — React product development after a Flutter internship on the same team.
+> - **4+ years in banking @ PUMB (Kyiv)** — customer advisory and **acting team lead** during the first months of the war; deep exposure to retail financial operations.
+> - Founder of **[Logerofman Studio](https://logerofman.com)** — narrative indie games with lore-first worldbuilding.
+> - Shipped **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** on **Steam** · built **[logerofman.com](https://logerofman.com)** (Astro, UA/EN, SEO, CI/CD).
+> - Contributor to **[Unity-MCP](https://github.com/IvanMurzak/Unity-MCP)** — AI-assisted Unity tooling in my daily pipeline.
 
-**From game loop to lore page** — I care about the craft of shipping worlds that players want to return to.
+**What makes my profile unusual:** most developers know code; I also know **how banking and customer operations work from the inside** — useful for fintech, payments, and product teams that need someone who speaks both languages.
 
 ---
 
@@ -33,7 +34,24 @@ I work across the full stack of an indie release: **Unity gameplay**, **narrativ
 
 </div>
 
-## 🎮 Game & World
+## 💼 Experience
+
+| Role | Focus |
+|------|--------|
+| **Web Developer · Nivero AS** | React, product features, TypeScript ecosystem |
+| **Flutter Developer · Nivero AS** | Mobile internship — UI, app structure, npm/TS toolchain |
+| **Customer Advisor / Acting Team Lead · PUMB Bank** | Retail banking, team coordination, high-pressure operations |
+| **Founder & Developer · Logerofman Studio** | Unity game dev, narrative design, studio site & lore wiki |
+
+## 🎓 Education & Languages
+
+**Bachelor's in Economics** — KROK University, Kyiv
+
+🇺🇦 Ukrainian (native) · 🇳🇴 Norwegian (B2) · 🇬🇧 English (B2) · 🇷🇺 Russian (native)
+
+---
+
+## 🎮 Shipped Work
 
 <table>
 <tr>
@@ -43,7 +61,7 @@ I work across the full stack of an indie release: **Unity gameplay**, **narrativ
 
 Mystical **2D adventure** about two girls escaping the world of animeads.
 
-Unity · narrative design · atmosphere · **Chapter One** on Steam
+`Unity` `C#` `2D` `Narrative Design` · live on **Steam**
 
 [Play on Steam →](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 
@@ -54,7 +72,7 @@ Unity · narrative design · atmosphere · **Chapter One** on Steam
 
 Production **studio site + lore wiki** for the game universe.
 
-Astro · TypeScript · bilingual routing · SEO · GitHub Actions · Netlify
+`Astro` `TypeScript` `Netlify` `GitHub Actions` · bilingual **UA/EN**
 
 [Visit site →](https://logerofman.com)
 
@@ -62,26 +80,29 @@ Astro · TypeScript · bilingual routing · SEO · GitHub Actions · Netlify
 </tr>
 </table>
 
-## 🛠 Stack & Tooling
+## 🛠 Tech Stack
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Unity & Game Dev
+### Web & Mobile
 
-Gameplay systems, level flow, narrative pacing, and shipping to **Steam** as a small indie team.
-
-`Unity` `C#` `2D` `Narrative Design`
+`React` `TypeScript` `Flutter` `Node.js` `Astro` `npm`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Web & Production
+### Game & Tools
 
-Static-first sites, locale-aware routing, wiki growth patterns, and CI that treats marketing code like product code.
+`Unity` `C#` `2D Animation` `Git` `Cursor` `Unity-MCP`
 
-`Astro` `TypeScript` `Netlify` `GitHub Actions`
+</td>
+<td width="33%" valign="top">
+
+### Domain & Infra
+
+`Fintech` `Banking Ops` `SEO` `Netlify` `Docker` (basics)
 
 </td>
 </tr>
@@ -91,8 +112,8 @@ Static-first sites, locale-aware routing, wiki growth patterns, and CI that trea
 
 <div align="center">
 
-**Open to collaboration** · Norway 🇳🇴 · [logerofman.com](https://logerofman.com) · [LinkedIn](https://www.linkedin.com/in/yevhenii-telnyi-706b752ab/)
+**Open to software, fintech & product roles** · Norway 🇳🇴 · [logerofman.com](https://logerofman.com) · [LinkedIn](https://www.linkedin.com/in/yevhenii-telnyi-706b752ab/)
 
-*Building worlds worth exploring.*
+*I build software — and worlds — that people trust and want to return to.*
 
 </div>
