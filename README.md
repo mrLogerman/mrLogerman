@@ -71,7 +71,7 @@ Component-driven UI, responsive layouts, and maintainable page architecture.
 
 APIs, scripts, bots, and deployment for web products and side projects
 
-**Telegram** bot development · REST integrations · static & serverless hosting on custom domains.
+**Firebase** (Auth, Firestore, hosting) · **Telegram** bots · REST integrations · static & serverless hosting on custom domains.
 
 </td>
 </tr>
@@ -162,6 +162,7 @@ Production **studio site + lore wiki** — **public repo**, CI on every push, bi
 **Cloud, deploy & tooling**
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
