@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=130&section=header&text=Yevhenii%20Telnyi&fontSize=44&fontColor=fff&animation=fadeIn&color=0:0f172a,100:7c3aed" width="100%" alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=720&height=60&lines=Software+Developer+%7C+Fintech+%7C+React+%7C+Unity+%7C+Game+Dev" alt=""/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=720&height=60&lines=Software+Developer+%7C+Fintech+%7C+React+%7C+Unity+%7C+Game+Dev" alt=""/>
 
 <br/>
 
@@ -42,68 +42,56 @@ I work where **finance, product engineering, and creative tech** meet: understan
 
 Indie studio founder · narrative 2D · atmosphere & lore-first design · shipped to **Steam**
 
-`Unity` `C#` `2D Animation` `Narrative Design` `Git`
+Solo pipeline: art import, animation, audio, gameplay, build, **Steamworks** release.
 
 </td>
-<td width="50%" valign="top">
-
-### Banking & Fintech
-
-4+ years at **PUMB Bank** — **credit risk** (loans & cards), **regulatory compliance** & documentation, **depository** control, **VIP** affluent-client servicing, **B2B** payroll acquisition · acting team lead · economics degree
-
-**9+ years** following blockchain ecosystems — watching how communities and products evolve, taking part as a user and market participant. **Active in TON now:** studying **Gram**, token mechanics, NFT markets, and how the network fits together.
-
-`Credit Risk` `Compliance` `Retail Banking` `Fintech` `TON` `Web3` `Financial Ops`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### Frontend
 
-Product UI in React & Flutter · static marketing sites · bilingual routing · SEO-aware frontends
+Product UI in **React** & **Flutter** · static marketing sites · bilingual routing · SEO-aware frontends
 
-`React` `Flutter` `TypeScript` `JavaScript` `Astro` `HTML/CSS`
+Component-driven UI, responsive layouts, and maintainable page architecture.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Banking & Fintech
+
+4+ years at **PUMB Bank** — **credit risk**, **compliance**, **depository** control, **VIP** servicing, **B2B** payroll acquisition; acting team lead · economics degree
+
+**9+ years** in blockchain ecosystems; active in **TON** — token mechanics, NFT markets, on-chain product patterns.
 
 </td>
 <td width="50%" valign="top">
 
-### Backend
+### Backend & DevOps
 
-APIs, scripts, deployment, and bots for web products and side projects
+APIs, scripts, bots, and deployment for web products and side projects
 
-`Node.js` `Python` `JavaScript` `Docker` `REST APIs` `Payload CMS`
-
-**Deploy & custom domains:** [Netlify](https://www.netlify.com/) · [Vercel](https://vercel.com/) · [Cloudflare Pages](https://pages.cloudflare.com/)
-
-**Telegram:** bot development · Bot API · channels & mini-app workflows
+**Telegram** bot development · REST integrations · static & serverless hosting on custom domains.
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### Content & Media
 
-Ran **two YouTube channels** in different periods — different niches, audiences around **~2K** and **~5K** subscribers. Full creator pipeline: edit → package → publish → read the numbers → adjust.
+Two **YouTube** channels (~**2K** and **~5K** subs) — edit → publish → analytics → iterate
 
-**Production:** `Sony Vegas Pro` · `Photoshop` (thumbnails & visuals)
-
-**Google / YouTube stack:** [YouTube Studio](https://studio.youtube.com/) (uploads, scheduling, monetization, community tab) · [YouTube Analytics](https://analytics.google.com/) (retention, CTR, traffic sources, demographics) · metadata & discovery (titles, descriptions, tags, chapters, playlists, end screens & cards) · comment & audience engagement
-
-`YouTube Studio` `YouTube Analytics` `Metadata & SEO` `Audience Growth` `Video Editing`
+Thumbnails, packaging, metadata, retention/CTR analysis, audience growth.
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### AI Tools
+### AI-assisted development
 
-Daily AI-assisted development — from Unity workflows to web and product work
+Daily AI pair programming across Unity, web, and product work
 
-`Cursor` `Claude` `GitHub Copilot` `Bezi`
+Faster iteration on architecture, refactors, docs, and shipping workflows.
 
 </td>
 </tr>
@@ -119,9 +107,7 @@ Daily AI-assisted development — from Unity workflows to web and product work
 
 Mystical **2D adventure** about two girls escaping the world of animeads.
 
-End-to-end solo dev on Chapter One — from **PSD art import** and **audio recording/integration** (MP3) through **skeletal & frame-by-frame 2D animation**, gameplay, build pipeline, and **Steam release** with **Steamworks** setup and store compliance.
-
-`Unity` `C#` `2D Animation` `Skeleton Rig` `Sprite Animation` `Steamworks` · live on **Steam**
+End-to-end solo dev — PSD import, audio, skeletal & frame animation, gameplay, build pipeline, **Steam** release & store compliance.
 
 [Play on Steam →](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 
@@ -130,9 +116,9 @@ End-to-end solo dev on Chapter One — from **PSD art import** and **audio recor
 
 ### [logerofman.com](https://logerofman.com)
 
-Production **studio site + lore wiki** for the game universe — **public repo**, CI on every push.
+Production **studio site + lore wiki** — **public repo**, CI on every push, bilingual **UA/EN**.
 
-`Astro` `TypeScript` `Netlify` · bilingual **UA/EN** · **250+ commits**
+**250+ commits** · Astro static build · Netlify deploy · SEO & sitemap discipline.
 
 [Visit site →](https://logerofman.com) · [Source on GitHub →](https://github.com/mrLogerman/Logerofman.com)
 
@@ -145,6 +131,65 @@ Production **studio site + lore wiki** for the game universe — **public repo**
 **Education:** Bachelor's in Economics — KROK University, Kyiv
 
 **Languages:** 🇺🇦 Ukrainian (native) · 🇷🇺 Russian (native) · 🇳🇴 Norwegian (B2) · 🇬🇧 English (B2)
+
+## Tech stack
+
+<div align="center">
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
+
+**Frameworks & platforms**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
+
+<br/>
+
+**Cloud, deploy & tooling**
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Steamworks](https://img.shields.io/badge/Steamworks-1B2838?style=for-the-badge&logo=steam&logoColor=white)
+
+<br/>
+
+**Fintech & domain**
+
+![Credit Risk](https://img.shields.io/badge/Credit_Risk-1e3a5f?style=for-the-badge)
+![Compliance](https://img.shields.io/badge/Compliance-1e3a5f?style=for-the-badge)
+![Retail Banking](https://img.shields.io/badge/Retail_Banking-1e3a5f?style=for-the-badge)
+![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-7c3aed?style=for-the-badge)
+
+<br/>
+
+**Bots, media & AI**
+
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
+</div>
 
 <div align="center">
 
