@@ -32,85 +32,75 @@ I work where **finance, product engineering, and creative tech** meet: understan
 
 ## Domains
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Game Dev
 
+**Studio & shipping**  
 Indie studio founder · narrative 2D · atmosphere & lore-first design · shipped to **Steam**
 
-Solo pipeline: art import, animation, audio, gameplay, build, **Steamworks** release.
+**Pipeline**  
+Art import · animation · audio · gameplay · build · **Steamworks** release
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### Frontend
 
-Product UI in **React** & **Flutter** · static marketing sites · bilingual routing · SEO-aware frontends
+**Product UI**  
+**React** & **Flutter** · static marketing sites · bilingual routing · SEO-aware frontends
 
-Component-driven UI, responsive layouts, and maintainable page architecture.
+**Approach**  
+Component-driven UI · responsive layouts · maintainable page architecture
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### Banking & Fintech
 
-4+ years at **PUMB Bank** — **credit risk**, **compliance**, **depository** control, **VIP** servicing, **B2B** payroll acquisition; acting team lead · economics degree
+**Banking (PUMB, 4+ years)**  
+Credit risk · compliance · depository control · VIP servicing · B2B payroll · acting team lead · economics degree
 
-**9+ years** in blockchain ecosystems; active in **TON** — token mechanics, NFT markets, on-chain product patterns.
+**Web3 & TON**  
+9+ years in blockchain ecosystems · token mechanics · NFT markets · on-chain product patterns
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### Backend & DevOps
 
-APIs, scripts, bots, and deployment for web products and side projects
+**Build & integrate**  
+APIs · scripts · bots · deployment for web products and side projects
 
-**Firebase** (Auth, Firestore, hosting) · **Telegram** bots · REST integrations · static & serverless hosting on custom domains.
+**Stack & delivery**  
+**Firebase** (Auth, Firestore, hosting) · **Telegram** bots · REST · serverless hosting on custom domains
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### Content & Media
 
-Two **YouTube** channels (~**2K** and **~5K** subs) — edit → publish → analytics → iterate
+**YouTube (2 channels)**  
+~**2K** and **~5K** subscribers · edit → publish → analytics → iterate
 
-Thumbnails, packaging, metadata, retention/CTR analysis, audience growth.
+**Skills**  
+Thumbnails · packaging · metadata · retention & CTR · audience growth
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### AI-assisted development
 
-Daily AI pair programming across Unity, web, and product work
+**Daily workflow**  
+Pair programming with AI across Unity, web, and product work
 
-Faster iteration on architecture, refactors, docs, and shipping workflows.
+**Outcome**  
+Faster architecture, refactors, docs, and shipping cycles
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+---
 
 ### Freelance
 
-**Websites from zero** for clients — build, handoff, and consulting on **deployment**, **metadata**, and **SEO**
+**Client websites from zero**  
+End-to-end build and handoff — static & product sites, routing, performance, analytics-ready structure
 
-End-to-end static & product sites: routing, performance, analytics-ready structure, and production launch on custom domains.
+**Consulting**  
+Deployment setup · **metadata** · **SEO** · production launch on custom domains
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</td>
-</tr>
-</table>
+---
 
 ## Shipped work
 
