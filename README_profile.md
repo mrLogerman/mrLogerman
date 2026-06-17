@@ -28,12 +28,11 @@ I work where **finance, product engineering, and creative tech** meet: understan
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mrLogerman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=mrLogerman&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrLogerman&repo=Logerofman.com&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Logerofman.com repo stats" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrLogerman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&langs_count=8" alt="Top Languages" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrLogerman&repo=Logerofman.com&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Logerofman.com repo stats" height="165"/>
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/top-langs.svg" alt="Most Used Languages (all repositories)" height="165"/>
 
 </div>
 
