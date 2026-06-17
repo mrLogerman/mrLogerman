@@ -27,11 +27,8 @@ I work where **finance, product engineering, and creative tech** meet: understan
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/github-stats.svg" alt="GitHub Stats (all repositories)" height="165"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/top-langs.svg" alt="Most Used Languages (all repositories)" height="165"/>
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/github-stats.svg" alt="GitHub Stats (all repositories)" width="467"/>
+<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/top-langs.svg" alt="Most Used Languages (all repositories)" width="467"/>
 
 </div>
 
@@ -135,7 +132,7 @@ End-to-end solo dev on Chapter One — from **PSD art import** and **audio recor
 
 Production **studio site + lore wiki** for the game universe — **public repo**, CI on every push.
 
-`Astro` `TypeScript` `Netlify` · bilingual **UA/EN** · **100+ commits**
+`Astro` `TypeScript` `Netlify` · bilingual **UA/EN** · **250+ commits**
 
 [Visit site →](https://logerofman.com) · [Source on GitHub →](https://github.com/mrLogerman/Logerofman.com)
 

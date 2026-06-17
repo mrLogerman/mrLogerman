@@ -16,15 +16,18 @@ const { renderTopLanguages } = await import(
   pathToFileURL(join(statsRoot, "src", "cards", "top-languages.js")).href
 );
 
+const CARD_WIDTH = 467;
+
 const topLangs = await fetchTopLanguages("mrLogerman", [], 1, 0);
 
 const svg = renderTopLanguages(topLangs, {
   theme: "tokyonight",
   hide_border: true,
   layout: "compact",
-  langs_count: 8,
+  langs_count: 6,
   hide_title: false,
   custom_title: "Most Used Languages",
+  card_width: CARD_WIDTH,
 });
 
 const outDir = join(dirname(fileURLToPath(import.meta.url)), "..", "assets");

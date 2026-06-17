@@ -67,11 +67,15 @@ const { renderStatsCard } = await import(
 const stats = await fetchStats(USERNAME, false, [], false, false, false);
 stats.totalCommits = await fetchTotalCommitsFromRepos();
 
+const CARD_WIDTH = 467;
+
 const svg = renderStatsCard(stats, {
   theme: "tokyonight",
   hide_border: true,
   show_icons: true,
   include_all_commits: true,
+  card_width: CARD_WIDTH,
+  hide: ["contribs"],
 });
 
 const outDir = join(dirname(fileURLToPath(import.meta.url)), "..", "assets");
