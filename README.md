@@ -93,6 +93,23 @@ Faster iteration on architecture, refactors, docs, and shipping workflows.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Freelance
+
+**Websites from zero** for clients — build, handoff, and consulting on **deployment**, **metadata**, and **SEO**
+
+End-to-end static & product sites: routing, performance, analytics-ready structure, and production launch on custom domains.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
 </table>
 
 ## Shipped work
