@@ -25,6 +25,13 @@ I work where **finance, product engineering, and creative tech** meet: understan
 > - **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — live on **Steam**
 > - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD)
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mrLogerman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrLogerman&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+
+</div>
+
 ## Domains
 
 <table>
