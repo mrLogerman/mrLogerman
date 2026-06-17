@@ -2,7 +2,7 @@
 
 # Yevhenii Telnyi
 
-**Software Developer** · **Fintech** · **Frontend** · **Backend** · **Game Dev** · **AI Tools**
+**Software Developer** · **Fintech** · **Frontend** · **Backend** · **Game Dev** · **Content** · **AI Tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrLogerman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrLogerman)
 [![Website](https://img.shields.io/badge/Website-logerofman.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logerofman.com)
@@ -75,6 +75,21 @@ APIs, scripts, deployment, and bots for web products and side projects
 **Deploy & custom domains:** [Netlify](https://www.netlify.com/) · [Vercel](https://vercel.com/) · [Cloudflare Pages](https://pages.cloudflare.com/)
 
 **Telegram:** bot development · Bot API · channels & mini-app workflows
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### Content & Media
+
+Ran **two YouTube channels** in different periods — different niches, audiences around **~2K** and **~5K** subscribers. Full creator pipeline: edit → package → publish → read the numbers → adjust.
+
+**Production:** `Sony Vegas Pro` · `Photoshop` (thumbnails & visuals)
+
+**Google / YouTube stack:** [YouTube Studio](https://studio.youtube.com/) (uploads, scheduling, monetization, community tab) · [YouTube Analytics](https://analytics.google.com/) (retention, CTR, traffic sources, demographics) · metadata & discovery (titles, descriptions, tags, chapters, playlists, end screens & cards) · comment & audience engagement
+
+`YouTube Studio` `YouTube Analytics` `Metadata & SEO` `Audience Growth` `Video Editing`
 
 </td>
 </tr>
