@@ -1,21 +1,19 @@
 <div align="center">
 
-# Yevhenii Telnyi
+<img src="https://capsule-render.vercel.app/api?type=soft&height=130&section=header&text=Yevhenii%20Telnyi&fontSize=44&fontColor=fff&animation=fadeIn&color=0:0f172a,100:7c3aed" width="100%" alt=""/>
 
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/owl-icon.png" width="52" alt=""/>
+<img src="https://readme-typing-svg.demolab.com/demo/?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&random=false&width=720&height=60&lines=Software+Developer+%7C+Fintech+%7C+React+%7C+Unity+%7C+Game+Dev" alt=""/>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/logerofman-studio.png" width="220" alt="Logerofman Studio"/>
-
-<br/><br/>
-
-**Software Developer** · **Fintech** · **Frontend** · **Backend** · **Game Dev** · **Content** · **AI Tools**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mrLogerman-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrLogerman)
 [![Website](https://img.shields.io/badge/Website-logerofman.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://logerofman.com)
 [![Steam](https://img.shields.io/badge/Steam-Chapter_One-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yevhenii_Telnyi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhenii-telnyi-706b752ab/)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,flutter,unity,ts,js,python,nodejs,docker,astro,git,githubactions,telegram,vscode,ps,postgres&theme=dark&perline=8" alt=""/>
 
 </div>
 
@@ -29,12 +27,9 @@ I work where **finance, product engineering, and creative tech** meet: understan
 > - **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — live on **Steam**
 > - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD)
 
----
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/tpotm-forest.png" width="100%" alt=""/>
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/tpotm-banner.png" width="100%" alt="The Palaces of The Mind"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=72&section=footer&text=Domains&fontSize=28&fontColor=e9d5ff&color=0:1e1b4b,100:581c87" width="100%" alt=""/>
 
 </div>
 
@@ -115,6 +110,12 @@ Daily AI-assisted development — from Unity workflows to web and product work
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=72&section=footer&text=Shipped%20Work&fontSize=28&fontColor=e9d5ff&color=0:1e1b4b,100:581c87" width="100%" alt=""/>
+
+</div>
+
 ## Shipped work
 
 <table>
@@ -122,10 +123,6 @@ Daily AI-assisted development — from Unity workflows to web and product work
 <td width="50%" valign="top">
 
 ### [The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
-
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/owl-dolly.png" width="110" alt=""/>
-
-<br/>
 
 Mystical **2D adventure** about two girls escaping the world of animeads.
 
@@ -139,10 +136,6 @@ End-to-end solo dev on Chapter One — from **PSD art import** and **audio recor
 <td width="50%" valign="top">
 
 ### [logerofman.com](https://logerofman.com)
-
-<img src="https://raw.githubusercontent.com/mrLogerman/mrLogerman/main/assets/logerofman-studio.png" width="160" alt="Logerofman Studio"/>
-
-<br/>
 
 Production **studio site + lore wiki** for the game universe.
 
@@ -160,11 +153,11 @@ Production **studio site + lore wiki** for the game universe.
 
 **Languages:** 🇺🇦 Ukrainian (native) · 🇷🇺 Russian (native) · 🇳🇴 Norwegian (B2) · 🇬🇧 English (B2)
 
----
-
 <div align="center">
 
-**Open to software, fintech & product roles in Norway**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&section=footer&text=Open%20to%20software%2C%20fintech%20%26%20product%20roles%20in%20Norway&fontSize=18&fontColor=fff&color=0:581c87,100:0f172a" width="100%" alt=""/>
+
+<br/>
 
 [logerofman.com](https://logerofman.com) · [LinkedIn](https://www.linkedin.com/in/yevhenii-telnyi-706b752ab/)
 
