@@ -101,7 +101,9 @@ Daily AI-assisted development — from Unity workflows to web and product work
 
 Mystical **2D adventure** about two girls escaping the world of animeads.
 
-`Unity` `C#` · live on **Steam**
+End-to-end solo dev on Chapter One — from **PSD art import** and **audio recording/integration** (MP3) through **skeletal & frame-by-frame 2D animation**, gameplay, build pipeline, and **Steam release** with **Steamworks** setup and store compliance.
+
+`Unity` `C#` `2D Animation` `Skeleton Rig` `Sprite Animation` `Steamworks` · live on **Steam**
 
 [Play on Steam →](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)
 
