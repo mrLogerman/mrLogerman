@@ -57,6 +57,28 @@ async function fetchTotalCommitsFromRepos() {
   return total;
 }
 
+/** Sum stargazers across all owned repos (public + private). */
+async function fetchTotalStarsFromRepos() {
+  const repos = [];
+  let page = 1;
+
+  while (true) {
+    const res = await fetch(
+      `https://api.github.com/user/repos?affiliation=owner&per_page=100&page=${page}`,
+      { headers },
+    );
+    if (!res.ok) {
+      throw new Error(`Failed to list repos: ${res.status}`);
+    }
+    const batch = await res.json();
+    repos.push(...batch);
+    if (batch.length < 100) break;
+    page += 1;
+  }
+
+  return repos.reduce((sum, repo) => sum + (repo.stargazers_count ?? 0), 0);
+}
+
 const { fetchStats } = await import(
   pathToFileURL(join(statsRoot, "src", "fetchers", "stats.js")).href
 );
@@ -66,6 +88,24 @@ const { renderStatsCard } = await import(
 
 const stats = await fetchStats(USERNAME, false, [], false, false, false);
 stats.totalCommits = await fetchTotalCommitsFromRepos();
+stats.totalStars = await fetchTotalStarsFromRepos();
+
+const userRes = await fetch("https://api.github.com/user", { headers });
+const { followers } = await userRes.json();
+
+const { calculateRank } = await import(
+  pathToFileURL(join(statsRoot, "src", "calculateRank.js")).href
+);
+stats.rank = calculateRank({
+  all_commits: true,
+  commits: stats.totalCommits,
+  prs: stats.totalPRs,
+  issues: stats.totalIssues,
+  reviews: stats.totalReviews,
+  repos: 0,
+  stars: stats.totalStars,
+  followers,
+});
 
 const CARD_WIDTH = 467;
 
@@ -80,4 +120,6 @@ const svg = renderStatsCard(stats, {
 
 const outDir = join(dirname(fileURLToPath(import.meta.url)), "..", "assets");
 writeFileSync(join(outDir, "github-stats.svg"), svg, "utf8");
-console.log(`Wrote assets/github-stats.svg (commits: ${stats.totalCommits})`);
+console.log(
+  `Wrote assets/github-stats.svg (commits: ${stats.totalCommits}, stars: ${stats.totalStars}, rank: ${stats.rank.level})`,
+);
