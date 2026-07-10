@@ -13,7 +13,7 @@
 
 </div>
 
-Software developer in **Molde, Norway** with a **banking background** and a track record of **shipping real products** — React apps, Flutter prototypes, a **Steam-released game**, and production web for an indie studio.
+Software developer in **Molde, Norway** with a **banking background** and a track record of **shipping real products** — React & Next.js apps, Flutter & React Native mobile work, a **Steam-released game**, and production web for an indie studio.
 
 I work where **finance, product engineering, and creative tech** meet: understanding how systems behave in production, then building software that is maintainable and worth trusting.
 
@@ -40,14 +40,14 @@ I work where **finance, product engineering, and creative tech** meet: understan
 
 Indie studio founder · narrative 2D · atmosphere & lore-first design · shipped to **Steam**
 
-Solo pipeline: art import, animation, audio, gameplay, build, **Steamworks** release.
+Solo pipeline in **Unity 6** (C#, URP, **Fungus**): art import, animation, audio, gameplay, build, **Steamworks** release.
 
 </td>
 <td width="50%" valign="top">
 
 <h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">Frontend</h3>
 
-Product UI in **React** & **Flutter** · static marketing sites · bilingual routing · SEO-aware frontends
+Product UI in **React**, **Next.js** & **Tailwind** · mobile in **Flutter**, **Expo** & **React Native** · 3D web with **React Three Fiber** · bilingual routing · SEO-aware frontends
 
 Component-driven UI, responsive layouts, and maintainable page architecture.
 
@@ -69,7 +69,7 @@ Component-driven UI, responsive layouts, and maintainable page architecture.
 
 APIs, scripts, bots, and deployment for web products and side projects
 
-**Firebase** (Auth, Firestore, hosting) · **Telegram** bots · REST integrations · static & serverless hosting on custom domains.
+**Firebase** & **Supabase** (auth, data, sync) · **Prisma** · **Stripe** payments · **Redis** · **Telegram** bots · REST integrations · **GitHub Actions** CI/CD · static & serverless hosting on custom domains.
 
 </td>
 </tr>
@@ -87,7 +87,7 @@ Thumbnails, packaging, metadata, retention/CTR analysis, audience growth.
 
 <h3 style="color:#A78BFA;font-size:1.17em;margin:0 0 12px 0;font-weight:600">AI-assisted development</h3>
 
-Daily AI pair programming across Unity, web, and product work
+Daily AI pair programming across Unity, web, and product work — and a custom **multi-agent pipeline**: **Claude Code**, **Cursor**, and **Gemini** in defined roles (scout → dispatcher → worker), handing work off through an **Obsidian** vault as shared memory
 
 Faster iteration on architecture, refactors, docs, and shipping workflows.
 
@@ -160,9 +160,14 @@ Production **studio site + lore wiki** for the game universe.
 **Frameworks & platforms**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_6-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Payload CMS](https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
 
@@ -172,10 +177,15 @@ Production **studio site + lore wiki** for the game universe.
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Steamworks](https://img.shields.io/badge/Steamworks-1B2838?style=for-the-badge&logo=steam&logoColor=white)
 
 <br/>
@@ -190,13 +200,15 @@ Production **studio site + lore wiki** for the game universe.
 
 <br/>
 
-**Bots, media & AI**
+**Bots, media, knowledge & AI**
 
 ![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
