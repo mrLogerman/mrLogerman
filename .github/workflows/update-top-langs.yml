@@ -18,11 +18,11 @@ jobs:
           node-version: 22
 
       - name: Clone github-readme-stats
-        run: git clone --depth 1 https://github.com/mrLogerman/github-readme-stats.git ../github-readme-stats
+        run: git clone --depth 1 https://github.com/mrLogerman/github-readme-stats.git ../mrLogerman-stats
 
       - name: Install stats dependencies
         run: npm ci
-        working-directory: ../github-readme-stats
+        working-directory: ../mrLogerman-stats
 
       - name: Regenerate SVG badges
         env:
