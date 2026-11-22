@@ -21,7 +21,7 @@ I work where **finance, product engineering, and creative tech** meet: understan
 > - **4+ years @ PUMB Bank (Kyiv)** — credit & card **risk assessment**, **compliance** & document control, **depository** ops, **VIP** private banking, **B2B** payroll acquisition; acting team lead
 > - **Founder @ [Logerofman Studio](https://logerofman.com)** — narrative indie games + studio web presence
 > - **[The Palaces of The Mind: Chapter One](https://store.steampowered.com/app/2836490/The_Palaces_of_The_Mind_Chapter_One/)** — live on **Steam**
-> - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD) · **[open source on GitHub](https://github.com/mrLogerman/Logerofman.com)**
+> - **[logerofman.com](https://logerofman.com)** — bilingual studio site & lore wiki (Astro, UA/EN, SEO, CI/CD)
 
 <div align="center">
 
@@ -127,9 +127,9 @@ Mystical **2D adventure** about two girls escaping the world of animeads.
 
 Production **studio site + lore wiki** for the game universe.
 
-**250+ Commits** · Astro Static Build · Netlify Deploy · SEO & Sitemap · Bilingual **UA/EN** · Public Repo · CI/CD
+**250+ Commits** · Astro Static Build · Netlify Deploy · SEO & Sitemap · Bilingual **UA/EN** · CI/CD
 
-[Visit Site →](https://logerofman.com) · [Source on GitHub →](https://github.com/mrLogerman/Logerofman.com)
+[Visit Site →](https://logerofman.com)
 
 </td>
 </tr>
